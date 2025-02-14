@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thodu Pelli Kuthuru</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+            background-color: #fff7f0;
+            font-family: 'Arial', sans-serif;
+        }
+        h1 {
+            font-size: 24px;
+            color: #b22222;
+            padding: 10px;
+        }
+        img {
+            width: 80%;
+            max-width: 300px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>I am Thodu Pelli Kuthuru for my Sowmya Akka's wedding. Hurray!!!</h1>
+    <img src="https://i.pinimg.com/564x/38/45/5b/38455b3088a6b94b313b308bd7b9c197.jpg" alt="Bridal Image">
+</body>
+</html>
